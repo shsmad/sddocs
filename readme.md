@@ -1,4 +1,6 @@
-# Модели
+# Чутка информации по sd/invoke
+
+## Модели
 
 NSFW модели https://gigazine.net/gsc_news/en/20221004-stable-diffusion-models-matome/
 
@@ -10,7 +12,7 @@ NSFW модели https://gigazine.net/gsc_news/en/20221004-stable-diffusion-mod
 | [realisticVision](https://civitai.com/models/4201?modelVersionId=501240) | Sampler: DPM++ SDE Karras or another / 4-6+ steps<br />CFG Scale: 1.5-2.0 / 3,5-7 (the lower the value, the more mutations, but the less contrast)<br/>Hires. fix with 4x-UltraSharp upscaler<br />Denoising strength: 0.25-0.45<br />Upscale by: 1.1-2.0<br />Clip Skip: 1-2<br />I also recommend using ADetailer for generation (some examples were generated with ADetailer, this will be noted in the image comments).<br />Prompt: RAW photo, subject, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3<br />Negative Prompt: (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, UnrealisticDream |
 | [LazyMix+ (Real Amateur Nudes)](https://civitai.com/models/10961/lazymix-real-amateur-nudes) |                                                              |
 
-# LoRAs
+## LoRAs
 
 | Название                                                     | Описание и настройки                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -23,11 +25,8 @@ NSFW модели https://gigazine.net/gsc_news/en/20221004-stable-diffusion-mod
 | [Skin & Hands (male/female) from Polyhedron](https://civitai.com/models/109043/skin-and-hands-malefemale-from-polyhedron) | Trigger Words: detailed skin, skin blemish                   |
 | [SDXL Nudes](https://civitai.com/models/122601/sdxl-nudes)   | Trigger Words: nude                                          |
 
-
-
-
-
 ## Samplers
+
 https://stable-diffusion-art.com/samplers/
 
 Good speed: DPM++ 2M Karras
