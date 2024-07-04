@@ -32,3 +32,13 @@ https://stable-diffusion-art.com/samplers/
 Good speed: DPM++ 2M Karras
 Good quality: DPM++ SDE Karras
 ?? DPM++ 2M SDE Karras
+
+## Прочитать и формализовать
+
+https://stable-diffusion-art.com/automatic1111-extensions/ Must-have AUTOMATIC1111 extensions
+
+https://betterwaifu.com/blog/nsfw-prompts Must-have AUTOMATIC1111 extensions
+
+https://safereactor.cc/post/5601957 Как перерисовать/раздеть любого персонажа с помощью Stable Diffusion
+
+https://tryolabs.com/blog/2022/10/25/the-guide-to-fine-tuning-stable-diffusion-with-your-own-images The guide to fine-tuning Stable Diffusion with your own images
