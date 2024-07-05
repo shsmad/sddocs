@@ -29,9 +29,9 @@ NSFW модели https://gigazine.net/gsc_news/en/20221004-stable-diffusion-mod
 
 https://stable-diffusion-art.com/samplers/
 
-Good speed: DPM++ 2M Karras
-Good quality: DPM++ SDE Karras
-?? DPM++ 2M SDE Karras
+- Good speed: DPM++ 2M Karras
+- Good quality: DPM++ SDE Karras
+- ?? DPM++ 2M SDE Karras
 
 ## Прочитать и формализовать
 
@@ -42,3 +42,37 @@ https://betterwaifu.com/blog/nsfw-prompts Must-have AUTOMATIC1111 extensions
 https://safereactor.cc/post/5601957 Как перерисовать/раздеть любого персонажа с помощью Stable Diffusion
 
 https://tryolabs.com/blog/2022/10/25/the-guide-to-fine-tuning-stable-diffusion-with-your-own-images The guide to fine-tuning Stable Diffusion with your own images
+
+https://mrdeepfakes.com/forums/threads/how-to-nudify-images-using-stable-diffusion.10693/page-3
+
+https://mrdeepfakes.com/forums/threads/installing-stable-diffusion-webui-nudifying-inpainting-guide.11797/page-4
+
+## Words
+
+### Specific Keyword Tokens for Photography
+
+- backlit, intricate details, highly detailed, atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grain, lut
+
+- hasselblad, film grain, unity 8k wallpaper, sharp focus, high dof, masterpiece,  dynamic angle, rule of thirds composition, volumetric lighting,  subsurface scattering, f2, 35mm, bokeh, blur
+
+- realistic, 8k uhd, dslr, cinematic lighting, high quality, film grain, Fujifilm XT3, rim lights
+
+- sharp focus, soft focus, 8k, uhd, soft lighting, high quality, beautiful,  professional, hyperrealistic, depth of field, Hyperdetailed, analog  style, realistic, soft shadows, masterpiece, best quality, ultra  realistic, 8k, golden ratio, intricate, High Detail, film photography
+
+- hyper photorealistic, crispy quality, digital photography, cinematic, 4 k ultra hd
+
+- RAW analog 3/4 photo portrait of (( *definition* )) with *parameters*, Photorealistic, Hyperrealistic, Hyperdetailed, detailed skin, soft  lighting, subsurface scattering, realistic, heavy shadow, masterpiece,  best quality, ultra realistic, 8k, golden ratio, Intricate, High Detail, film photography, soft focus, rimlight
+
+- masterpiece, best quality, highres
+
+- NEG: face asymmetry, eyes asymmetry, deformed eyes, open mouth, worst quality, low quality, normal quality, illustration, 3d, 2d, painting, cartoons, sketch
+
+- **SKIN**: pos: good skin, beauty, wealth, sport body, young, neg: bad skin, ugly, creases, defects, old
+
+### Промптогенераторы
+
+- https://promptomania.com/stable-diffusion-prompt-builder
+- https://drawingprompt.com/
+- https://huggingface.co/spaces/nielsr/comparing-captioning-models
+- https://huggingface.co/spaces/doevent/prompt-generator
+- https://prompt.noonshot.com/
